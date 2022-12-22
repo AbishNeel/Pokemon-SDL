@@ -1,0 +1,50 @@
+{
+  "Quick Attack": {
+    "damage": 10,
+    "accuracy": 85,
+    "type": "Normal"
+  },
+
+  "Tackle": {
+    "damage": 12,
+    "accuracy": 88,
+    "type": "Normal"
+  },
+
+  "Scratch": {
+    "damage": 15,
+    "accuracy": 83,
+    "type": "Normal"
+  },
+
+  "Ember": {
+    "damage": 20,
+    "accuracy": 85,
+    "type": "Fire"
+  },
+
+  "Bite": {
+    "name": "Bite",
+    "damage": 15,
+    "accuracy": 86,
+    "type": "Normal"
+  },
+
+  "Water Gun": {
+    "damage": 20,
+    "accuracy": 78,
+    "type": "Water"
+  },
+
+  "Body Slam": {
+    "damage": 15,
+    "accuracy": 86,
+    "type": "Normal"
+  },
+
+  "Razor Leaf": {
+    "damage": 20,
+    "accuracy": 81,
+    "type": "Grass"
+  }
+}

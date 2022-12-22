@@ -1,0 +1,18 @@
+﻿  Attack.cpp
+  Dialogue.cpp
+  Enemy.cpp
+  Entity.cpp
+C:\Dev\Students\CH19\Abish.Neelakanta\Prog1\Pokemon\source\Pokemon\Entity.cpp(50,51): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\Students\CH19\Abish.Neelakanta\Prog1\Pokemon\source\Pokemon\Entity.cpp(50,39): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Dev\Students\CH19\Abish.Neelakanta\Prog1\Pokemon\source\Pokemon\Entity.cpp(80,30): warning C4244: '-=': conversion from 'float' to 'int', possible loss of data
+  Game.cpp
+  HealthBar.cpp
+  Main.cpp
+  Player.cpp
+  Timer.cpp
+C:\Dev\Students\CH19\Abish.Neelakanta\Prog1\Pokemon\source\Pokemon\Timer.cpp(17,46): warning C4018: '>': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 440 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Pokemon.vcxproj -> C:\Dev\Students\CH19\Abish.Neelakanta\Prog1\Pokemon\build\bin\Pokemon\x64\Release\Pokemon.exe

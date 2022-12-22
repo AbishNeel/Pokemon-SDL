@@ -1,0 +1,43 @@
+{
+  "charmander": {
+    "name": "Charmander",
+    "type": "Fire",
+    "HP": 100,
+    "frontimagepath": "content/charmander_front.png",
+    "backimagepath": "content/charmander_back.png",
+    "attacks": [
+      "Quick Attack",
+      "Tackle",
+      "Scratch",
+      "Ember"
+    ]
+  },
+
+  "squirtle": {
+    "name": "Squirtle",
+    "type": "Water",
+    "HP": 90,
+    "frontimagepath": "content/squirtle_front.png",
+    "backimagepath": "content/squirtle_back.png",
+    "attacks": [
+      "Quick Attack",
+      "Tackle",
+      "Bite",
+      "Water Gun"
+    ]
+  },
+
+  "bulbasaur": {
+    "name": "Bulbasaur",
+    "type": "Grass",
+    "HP": 110,
+    "frontimagepath": "content/bulbasaur_front.png",
+    "backimagepath": "content/bulbasaur_back.png",
+    "attacks": [
+      "Quick Attack",
+      "Tackle",
+      "Body Slam",
+      "Razor Leaf"
+    ]
+  }
+}

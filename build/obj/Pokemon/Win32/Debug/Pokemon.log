@@ -1,0 +1,11 @@
+﻿  Attack.cpp
+  Dialogue.cpp
+  Entity.cpp
+  Game.cpp
+  HealthBar.cpp
+C:\Dev\Students\CH19\Abish.Neelakanta\Prog1\Pokemon\source\Pokemon\HealthBar.cpp(22,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+  Main.cpp
+  Timer.cpp
+C:\Dev\Students\CH19\Abish.Neelakanta\Prog1\Pokemon\source\Pokemon\Timer.cpp(17,46): warning C4018: '>': signed/unsigned mismatch
+  Generating Code...
+  Pokemon.vcxproj -> C:\Dev\Students\CH19\Abish.Neelakanta\Prog1\Pokemon\build\bin\Pokemon\Win32\Debug\Pokemon.exe
