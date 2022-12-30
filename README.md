@@ -1,5 +1,5 @@
 # Pokemon SDL
-A mock up of the first battle in Pokemon FireRed/LeafGreen between the player and a their rival written using C++ and SDL2. Contains features such as critical hits, super effectiveness, attack accuracy, attack speed etc. The first prototype was made in a span of 2 weeks for a grad school assignment.
+A mock up of the first battle in Pokemon FireRed/LeafGreen between the player and a their rival written using C++ and SDL2. Contains features such as critical hits, super effectiveness, attack accuracy, attack speed etc. The game is data driven, i.e Pokemon and attack statistics are read from a JSON file at runtime. The first prototype was made in a span of 2 weeks for a grad school assignment.
 
 
 SCREENSHOTS
